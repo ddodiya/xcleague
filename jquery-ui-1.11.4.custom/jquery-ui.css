@@ -787,7 +787,7 @@ button.ui-button::-moz-focus-inner {
 	float: left;
 	position: relative;
 	top: 0;
-	margin: 1px .2em 0 0;
+	margin: 1px .1em 0 0;
 	border-bottom-width: 0;
 	padding: 0;
 	white-space: nowrap;
@@ -831,7 +831,7 @@ body .ui-tooltip {
 ----------------------------------*/
 .ui-widget {
 	font-family: Lucida Grande,Lucida Sans,Arial,sans-serif;
-	font-size: 1.1em;
+	font-size: 1em;
 }
 .ui-widget .ui-widget {
 	font-size: 1em;

@@ -28,21 +28,32 @@
 </head>
 <body>
 <h1>Indian Paragliding XC League</h1> 
+
 <div id="tabs">
   <ul>
     <li><a href="#tabs-1">All Time</a></li>
-    <li><a href="indians2015s.html">Indians Season 2015</a></li>
-    <li><a href="indians2015.html">Indians Year 2015</a></li>
-    <li><a href="content1.html">All Season 2015</a></li>
-    <li><a href="content1.html">All Season 2015</a></li>
-    <li><a href="content2.html">All Year 2015</a></li>
-    <li><a href="content3.html">All Season 2014</a></li>
-    <li><a href="content4.html">All Latest Flights</a></li>
-    <li><a href="content5.html">All XC League Year 2015</a></li>
+    <li><a href="indians2015s.html">Season 2015</a></li>
+    <li><a href="indians2015.html">Year 2015</a></li>
+    <li><a href="content1.html">Season 2015 All Pilots</a></li>
+    <li><a href="content2.html">Year 2015 All Pilots</a></li>
+    <li><a href="content3.html">Season 2014</a></li>
+    <li><a href="content4.html">Latest Flights</a></li>
+    <li><a href="content5.html">World XC League Year 2015</a></li>
 
   </ul>
+<table id="tabs">
+
+<tr>
+<td>
   <div id="tabs-1">
-<object data=http://www.paraglidingforum.com/leonardo/league/IN/alltimes/brand:all,cat:1,class:all,xctype:all,club:all&fltr=none width="800" height="500"> <embed src=http://www.paraglidingforum.com/leonardo/league/IN/alltimes/brand:all,cat:1,class:all,xctype:all,club:all&fltr=none width="800" height="500"> </embed> Error: Embedded data could not be displayed. </object>
+<object data=http://www.paraglidingforum.com/leonardo/league/IN/alltimes/brand:all,cat:1,class:all,xctype:all,club:all&fltr=none width="800" height="500">
+ <embed src=http://www.paraglidingforum.com/leonardo/league/IN/alltimes/brand:all,cat:1,class:all,xctype:all,club:all&fltr=none width="800" height="500"> </embed> Error: Embedded data could not be displayed. </object>
+</td>
+<td>
+<h3>Sponsored by:</h3>
+<img src="https://lh3.googleusercontent.com/-qbPh_qlqHm0/VUNYSviucQI/AAAAAAAAJlU/pADM8kGW6YI/w877-h658-no/IMG_20150321_134621454.jpg" width="70%" height="70%"/>
+</td>
+</table>
   </div>
 </div>
   <a href="http://www.paraglidingforum.com/leonardo/tracks/world/alltimes/">Upload your flight log on Paragliding Forum Leonardo Server to participate</a> </div> 
