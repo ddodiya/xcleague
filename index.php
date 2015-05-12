@@ -51,7 +51,7 @@
 </td>
 <td>
 <h3>Sponsored by:</h3>
-<img src="https://lh3.googleusercontent.com/-qbPh_qlqHm0/VUNYSviucQI/AAAAAAAAJlU/pADM8kGW6YI/w877-h658-no/IMG_20150321_134621454.jpg" width="70%" height="70%"/>
+<img src="https://lh3.googleusercontent.com/CotyAUOSFcj_Ksy2gjgNLxuOV9cSrauIIA-_mDhpdpQ=w189-h142-p-no"/>
 </td>
 </table>
   </div>
